@@ -75,12 +75,14 @@ header {
 
 .links {
     display: flex;
-    color: rgb(26, 9, 63) width: 25.2rem;
+    color: rgb(26, 9, 63);
+    width: 39rem;
     height: 1rem;
     align-items: center;
     justify-content: center;
     transform: translate(-135px, 10px);
 }
+
 
 .menu {
     display: none;

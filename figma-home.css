@@ -73,14 +73,7 @@ header {
     Height: 130px
 }
 
-.links {
-    display: flex;
-    color: rgb(26, 9, 63) width: 25.2rem;
-    height: 1rem;
-    align-items: center;
-    justify-content: center;
-    transform: translate(-135px, 10px);
-}
+
 
 .menu {
     display: none;
@@ -679,11 +672,14 @@ text-align: center;
 }
 
 .cust-name {
-    color: rgb(26, 9, 63) font-size:18px;
+    color: rgb(26, 9, 63);
+    font-size: 18px;
     font-weight: 500;
     line-height: 30px;
     text-align: left;
 }
+
+
 
 .cust-profession {
     color: rgb(140, 132, 159);
@@ -1097,7 +1093,6 @@ width: 500rem !important;
         margin-left: -40px;
         width: 200px;
     }
-    .
     .sec9-card {
         height: 450px !important;
     }
@@ -1291,7 +1286,7 @@ width: 500rem !important;
             transform:  translateX(80px);
         }
     }
-=======
+
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:wght@550&display=swap');
 
 body {
@@ -1368,7 +1363,8 @@ header {
 
 .links {
     display: flex;
-    color: rgb(26, 9, 63) width: 25.2rem;
+    color: rgb(26, 9, 63);
+     width: 40rem;
     height: 1rem;
     align-items: center;
     justify-content: center;
@@ -1972,11 +1968,13 @@ text-align: center;
 }
 
 .cust-name {
-    color: rgb(26, 9, 63) font-size:18px;
+    color: rgb(26, 9, 63);
+    font-size: 18px;
     font-weight: 500;
     line-height: 30px;
     text-align: left;
 }
+
 
 .cust-profession {
     color: rgb(140, 132, 159);
@@ -2390,7 +2388,6 @@ width: 500rem !important;
         margin-left: -40px;
         width: 200px;
     }
-    .
     .sec9-card {
         height: 450px !important;
     }
